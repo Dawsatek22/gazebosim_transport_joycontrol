@@ -1,2 +1,2 @@
 # gazebosim_transport_joycontrol
-a project to control a sdf model direction by publishing gz.msgs.Int32 msgs  with bluetooth joystick button presses to a sdf world
+a project to control a sdf model direction by publishing gz.msgs.Int32 msgs  with bluetooth joystick button presses to a sdf world using gazebo sim and gazebo trasnport.This projects is used on a linux os like ubuntu 24.04 lts(I cannot garantee it works on a other operating system),to use the joystick you need to connect with bluetooth to your os.Here is a link  on how to connect with bluetoothctl: https://github.com/myacobb/bluetooth-setup,And here is link on a video to do that:https://youtu.be/dxve5uURQ6U?si=9C5GQFfx4hf2zuEQ

@@ -25,7 +25,7 @@
  */
 
 // Below are the standard namespaces to shorten the code.
-And
+
 using namespace std;
 using namespace std::chrono_literals;
 static std::atomic<bool> g_terminatePub(false);
